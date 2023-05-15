@@ -1,0 +1,90 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(535,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(650,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(680,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(736,11): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(822,19): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(870,19): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(970,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(970,52): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1125,54): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1125,41): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1126,33): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1127,33): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1131,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1170,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1170,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1170,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1092,9): warning C4101: 'spos': unreferenced local variable
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1321,43): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1325,43): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1485,15): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1409,13): warning C4101: 'yy': unreferenced local variable
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1408,13): warning C4101: 'xx': unreferenced local variable
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1554,15): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1635,15): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1704,15): warning C4102: 'cv': unreferenced label
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1749,26): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1840,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1841,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1843,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1844,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1848,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1849,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1851,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1852,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1860,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1866,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1872,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1878,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1878,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1878,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1879,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1880,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1881,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1908,161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1908,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\polit\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1908,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 1477 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+zlib_d.lib(adler32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(adler32.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(crc32.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(crc32.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(deflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(deflate.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(inflate.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inflate.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(inftrees.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inftrees.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(inffast.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(inffast.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(trees.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(trees.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+zlib_d.lib(zutil.obj) : warning LNK4099: PDB 'zlibstatic.pdb' was not found with 'zlib_d.lib(zutil.obj)' or at 'C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\zlibstatic.pdb'; linking object as if no debug info
+  ConsoleApplication1.vcxproj -> C:\Users\polit\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
